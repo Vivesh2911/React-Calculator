@@ -1,0 +1,12 @@
+.display{
+    border: 0px solid black;  
+  /* height: 50vh;  */
+  font-size: 50px;
+  width: 90%;
+/* margin-left: 4%; */
+margin: 10px;
+/* box-shadow: 0px 0px 10px ; */
+border-radius: 10px;
+background-color: rgb(245, 200, 36);
+color: black;
+}

@@ -1,0 +1,12 @@
+.heading{
+  color: red;
+  border: 1px solid black;
+  /* margin: auto; */
+  margin-top: 10%;
+  margin-left: 24%;
+  margin-right: 24%;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px grey;
+  min-width: 380px;
+  background-color: rgb(244, 67, 8);
+}
